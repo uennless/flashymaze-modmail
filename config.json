@@ -5,6 +5,6 @@
   "logChannelId": "474986900638269456",
 
   "status": "Message me for help!",
-  "alwaysReplyAnon": "True",
+  "alwaysReplyAnon": "true",
   "responseMessage": "Thank you for your message! Our mod team will reply to you here as soon as possible."
 }
